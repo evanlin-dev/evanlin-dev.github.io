@@ -32,11 +32,26 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    flex-direction: column;
+    margin-left: 5em;
 }
 
 .body-text {
     width: 50%;
     color: white;
     font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.img-container {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+
+.img-style {
+    max-width: 100%;
+    height: auto;
+    margin-right: 2em;
 }
