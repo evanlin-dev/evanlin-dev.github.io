@@ -27,7 +27,7 @@
 
 .body-container {
     width: 100%;
-    height: calc(80% - 5em); /* Adjust height considering header height */
+    height: calc(80% - 5em);
     display: flex;
     justify-content: center;
     align-items: center;
