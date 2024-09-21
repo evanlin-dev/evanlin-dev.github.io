@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(175, 204, 247);
+}
+
+.list-container {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    margin-bottom: 0;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 10em;
+    width: 95vw;
+}
+
+li {
+    float: left;
+    margin-right: 1em;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-radius: 10em;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.selected {
+    background-color: #222;
+    border-radius: 10em;
+}
