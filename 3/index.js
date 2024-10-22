@@ -112,6 +112,7 @@ function resetForm() {
     rows.forEach((row, index) => {
         const courseInput = row.querySelector('input[type="text"]:nth-child(2)');
         courseInput.value = '';
+        courseInput.placeholder = 'Course Name';
         
         const gradeSelect = row.querySelector('select');
         gradeSelect.value = '';
