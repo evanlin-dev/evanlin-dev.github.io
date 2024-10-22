@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Ensure consistency for inputs and dropdowns */
+select, input[type="text"], input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button#addRowBtn, button#calculateBtn, button#resetBtn {
+    margin: 5px 0;
+}
+
+.hidden {
+    display: none;
+}
+
+#error {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+}
+
+#calculateBtn {
+    background-color: green;
+    color: white;
+}
+
+#resetBtn {
+    background-color: gray;
+    color: white;
+}
+
+.deleteBtn {
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    color: red;
+    cursor: pointer;
+}
+
+#gpaResult {
+    width: 100px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.course {
+    display: flex;
+}
