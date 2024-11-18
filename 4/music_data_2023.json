@@ -1,0 +1,1854 @@
+{
+    "year": 2023,
+    "data": {
+        "01": {
+            "01": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 119
+            },
+            "02": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 166
+            },
+            "03": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 138
+            },
+            "04": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 140
+            },
+            "05": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 78
+            },
+            "06": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 35
+            },
+            "07": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 32
+            },
+            "08": {
+                "totalSongs": 35,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 171
+            },
+            "09": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 151
+            },
+            "10": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 143
+            },
+            "11": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 185
+            },
+            "12": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 189
+            },
+            "13": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 116
+            },
+            "14": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 189
+            },
+            "15": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 104
+            },
+            "16": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 192
+            },
+            "17": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 72
+            },
+            "18": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 127
+            },
+            "19": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 55
+            },
+            "20": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 74
+            },
+            "21": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 48
+            },
+            "22": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 63
+            },
+            "23": {
+                "totalSongs": 16,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 143
+            },
+            "24": {
+                "totalSongs": 16,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 95
+            },
+            "25": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 63
+            },
+            "26": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 80
+            },
+            "27": {
+                "totalSongs": 38,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 165
+            },
+            "28": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 106
+            },
+            "29": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 47
+            },
+            "30": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 130
+            },
+            "31": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 113
+            }
+        },
+        "02": {
+            "01": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 181
+            },
+            "02": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 200
+            },
+            "03": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 56
+            },
+            "04": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 158
+            },
+            "05": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 186
+            },
+            "06": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 50
+            },
+            "07": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 90
+            },
+            "08": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 142
+            },
+            "09": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 138
+            },
+            "10": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 136
+            },
+            "11": {
+                "totalSongs": 38,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 112
+            },
+            "12": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 104
+            },
+            "13": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 187
+            },
+            "14": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 37
+            },
+            "15": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 67
+            },
+            "16": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 59
+            },
+            "17": {
+                "totalSongs": 35,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 196
+            },
+            "18": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 169
+            },
+            "19": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 175
+            },
+            "20": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 144
+            },
+            "21": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 52
+            },
+            "22": {
+                "totalSongs": 41,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 130
+            },
+            "23": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 177
+            },
+            "24": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 85
+            },
+            "25": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 171
+            },
+            "26": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 166
+            },
+            "27": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 161
+            },
+            "28": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 154
+            }
+        },
+        "03": {
+            "01": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 60
+            },
+            "02": {
+                "totalSongs": 38,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 115
+            },
+            "03": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 122
+            },
+            "04": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 118
+            },
+            "05": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 184
+            },
+            "06": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 76
+            },
+            "07": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 144
+            },
+            "08": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 178
+            },
+            "09": {
+                "totalSongs": 41,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 170
+            },
+            "10": {
+                "totalSongs": 41,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 43
+            },
+            "11": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 65
+            },
+            "12": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 85
+            },
+            "13": {
+                "totalSongs": 15,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 82
+            },
+            "14": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 61
+            },
+            "15": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 142
+            },
+            "16": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 170
+            },
+            "17": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 67
+            },
+            "18": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 37
+            },
+            "19": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 67
+            },
+            "20": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 181
+            },
+            "21": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 65
+            },
+            "22": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 188
+            },
+            "23": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 180
+            },
+            "24": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 124
+            },
+            "25": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 77
+            },
+            "26": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 149
+            },
+            "27": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 173
+            },
+            "28": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 64
+            },
+            "29": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 85
+            },
+            "30": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 167
+            },
+            "31": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 88
+            }
+        },
+        "04": {
+            "01": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 151
+            },
+            "02": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 93
+            },
+            "03": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 195
+            },
+            "04": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 135
+            },
+            "05": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 194
+            },
+            "06": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 61
+            },
+            "07": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 39
+            },
+            "08": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 119
+            },
+            "09": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 47
+            },
+            "10": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 140
+            },
+            "11": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 192
+            },
+            "12": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 75
+            },
+            "13": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 35
+            },
+            "14": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 43
+            },
+            "15": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 182
+            },
+            "16": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 33
+            },
+            "17": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 167
+            },
+            "18": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 74
+            },
+            "19": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 55
+            },
+            "20": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 94
+            },
+            "21": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 182
+            },
+            "22": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 109
+            },
+            "23": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 72
+            },
+            "24": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 54
+            },
+            "25": {
+                "totalSongs": 44,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 166
+            },
+            "26": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 42
+            },
+            "27": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 99
+            },
+            "28": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 118
+            },
+            "29": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 185
+            },
+            "30": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 35
+            }
+        },
+        "05": {
+            "01": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 176
+            },
+            "02": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 104
+            },
+            "03": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 84
+            },
+            "04": {
+                "totalSongs": 41,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 141
+            },
+            "05": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 197
+            },
+            "06": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 112
+            },
+            "07": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 167
+            },
+            "08": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 130
+            },
+            "09": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 74
+            },
+            "10": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 100
+            },
+            "11": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 96
+            },
+            "12": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 144
+            },
+            "13": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 157
+            },
+            "14": {
+                "totalSongs": 15,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 63
+            },
+            "15": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 128
+            },
+            "16": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 62
+            },
+            "17": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 72
+            },
+            "18": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 56
+            },
+            "19": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 136
+            },
+            "20": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 58
+            },
+            "21": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 150
+            },
+            "22": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 138
+            },
+            "23": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 89
+            },
+            "24": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 125
+            },
+            "25": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 42
+            },
+            "26": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 92
+            },
+            "27": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 71
+            },
+            "28": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 170
+            },
+            "29": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 96
+            },
+            "30": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 105
+            },
+            "31": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 170
+            }
+        },
+        "06": {
+            "01": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 52
+            },
+            "02": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 177
+            },
+            "03": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 73
+            },
+            "04": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 178
+            },
+            "05": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 168
+            },
+            "06": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 85
+            },
+            "07": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 57
+            },
+            "08": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 188
+            },
+            "09": {
+                "totalSongs": 35,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 35
+            },
+            "10": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 167
+            },
+            "11": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 152
+            },
+            "12": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 85
+            },
+            "13": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 179
+            },
+            "14": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 189
+            },
+            "15": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 100
+            },
+            "16": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 190
+            },
+            "17": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 97
+            },
+            "18": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 128
+            },
+            "19": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 87
+            },
+            "20": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 43
+            },
+            "21": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 159
+            },
+            "22": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 103
+            },
+            "23": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 174
+            },
+            "24": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 141
+            },
+            "25": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 102
+            },
+            "26": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 46
+            },
+            "27": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 192
+            },
+            "28": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 194
+            },
+            "29": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 165
+            },
+            "30": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 109
+            }
+        },
+        "07": {
+            "01": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 31
+            },
+            "02": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 43
+            },
+            "03": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 52
+            },
+            "04": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 124
+            },
+            "05": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 116
+            },
+            "06": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 137
+            },
+            "07": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 84
+            },
+            "08": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 87
+            },
+            "09": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 98
+            },
+            "10": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 127
+            },
+            "11": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 92
+            },
+            "12": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 33
+            },
+            "13": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 156
+            },
+            "14": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 140
+            },
+            "15": {
+                "totalSongs": 15,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 66
+            },
+            "16": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 102
+            },
+            "17": {
+                "totalSongs": 16,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 142
+            },
+            "18": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 120
+            },
+            "19": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 67
+            },
+            "20": {
+                "totalSongs": 44,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 87
+            },
+            "21": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 108
+            },
+            "22": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 78
+            },
+            "23": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 116
+            },
+            "24": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 81
+            },
+            "25": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 65
+            },
+            "26": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 180
+            },
+            "27": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 170
+            },
+            "28": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 182
+            },
+            "29": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 174
+            },
+            "30": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 145
+            },
+            "31": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 136
+            }
+        },
+        "08": {
+            "01": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 81
+            },
+            "02": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 184
+            },
+            "03": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 107
+            },
+            "04": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 59
+            },
+            "05": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 194
+            },
+            "06": {
+                "totalSongs": 38,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 139
+            },
+            "07": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 91
+            },
+            "08": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 99
+            },
+            "09": {
+                "totalSongs": 16,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 49
+            },
+            "10": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 94
+            },
+            "11": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 135
+            },
+            "12": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 114
+            },
+            "13": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 153
+            },
+            "14": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 132
+            },
+            "15": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 35
+            },
+            "16": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 173
+            },
+            "17": {
+                "totalSongs": 38,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 49
+            },
+            "18": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 133
+            },
+            "19": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 162
+            },
+            "20": {
+                "totalSongs": 35,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 178
+            },
+            "21": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 170
+            },
+            "22": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 54
+            },
+            "23": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 105
+            },
+            "24": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 36
+            },
+            "25": {
+                "totalSongs": 44,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 49
+            },
+            "26": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 115
+            },
+            "27": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 51
+            },
+            "28": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 84
+            },
+            "29": {
+                "totalSongs": 35,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 39
+            },
+            "30": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 94
+            },
+            "31": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 73
+            }
+        },
+        "09": {
+            "01": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 118
+            },
+            "02": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 32
+            },
+            "03": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 60
+            },
+            "04": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 113
+            },
+            "05": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 99
+            },
+            "06": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 60
+            },
+            "07": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 157
+            },
+            "08": {
+                "totalSongs": 16,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 141
+            },
+            "09": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 82
+            },
+            "10": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 153
+            },
+            "11": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 98
+            },
+            "12": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 55
+            },
+            "13": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 73
+            },
+            "14": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 163
+            },
+            "15": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 121
+            },
+            "16": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 111
+            },
+            "17": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 89
+            },
+            "18": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 140
+            },
+            "19": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 117
+            },
+            "20": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 157
+            },
+            "21": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 65
+            },
+            "22": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 151
+            },
+            "23": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 120
+            },
+            "24": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 153
+            },
+            "25": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 80
+            },
+            "26": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 42
+            },
+            "27": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 186
+            },
+            "28": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 41
+            },
+            "29": {
+                "totalSongs": 41,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 60
+            },
+            "30": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 135
+            }
+        },
+        "10": {
+            "01": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 138
+            },
+            "02": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 110
+            },
+            "03": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 133
+            },
+            "04": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 117
+            },
+            "05": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 49
+            },
+            "06": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 57
+            },
+            "07": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 99
+            },
+            "08": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 177
+            },
+            "09": {
+                "totalSongs": 38,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 151
+            },
+            "10": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 164
+            },
+            "11": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 56
+            },
+            "12": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 93
+            },
+            "13": {
+                "totalSongs": 44,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 70
+            },
+            "14": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 148
+            },
+            "15": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 93
+            },
+            "16": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 90
+            },
+            "17": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 76
+            },
+            "18": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 85
+            },
+            "19": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 64
+            },
+            "20": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 60
+            },
+            "21": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 110
+            },
+            "22": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 142
+            },
+            "23": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 67
+            },
+            "24": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 162
+            },
+            "25": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 193
+            },
+            "26": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 129
+            },
+            "27": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 73
+            },
+            "28": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 61
+            },
+            "29": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 186
+            },
+            "30": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 85
+            },
+            "31": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 118
+            }
+        },
+        "11": {
+            "01": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 107
+            },
+            "02": {
+                "totalSongs": 38,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 195
+            },
+            "03": {
+                "totalSongs": 41,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 104
+            },
+            "04": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 176
+            },
+            "05": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 132
+            },
+            "06": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 126
+            },
+            "07": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 160
+            },
+            "08": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 112
+            },
+            "09": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 53
+            },
+            "10": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 44
+            },
+            "11": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Happier Than Ever - Billie Eilish",
+                "totalDuration": 91
+            },
+            "12": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 89
+            },
+            "13": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 107
+            },
+            "14": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 82
+            },
+            "15": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 131
+            },
+            "16": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 190
+            },
+            "17": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 54
+            },
+            "18": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 169
+            },
+            "19": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 167
+            },
+            "20": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 176
+            },
+            "21": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 31
+            },
+            "22": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 36
+            },
+            "23": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 129
+            },
+            "24": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 60
+            },
+            "25": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 43
+            },
+            "26": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 147
+            },
+            "27": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 170
+            },
+            "28": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 98
+            },
+            "29": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 133
+            },
+            "30": {
+                "totalSongs": 16,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 186
+            }
+        },
+        "12": {
+            "01": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 75
+            },
+            "02": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 31
+            },
+            "03": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 52
+            },
+            "04": {
+                "totalSongs": 41,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 66
+            },
+            "05": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 188
+            },
+            "06": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 195
+            },
+            "07": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 167
+            },
+            "08": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 185
+            },
+            "09": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 117
+            },
+            "10": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 67
+            },
+            "11": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 183
+            },
+            "12": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Shivers - Ed Sheeran",
+                "totalDuration": 135
+            },
+            "13": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 152
+            },
+            "14": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 157
+            },
+            "15": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 121
+            },
+            "16": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 89
+            },
+            "17": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 133
+            },
+            "18": {
+                "totalSongs": 44,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 126
+            },
+            "19": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 166
+            },
+            "20": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 36
+            },
+            "21": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 117
+            },
+            "22": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 113
+            },
+            "23": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Bad Habits - Ed Sheeran",
+                "totalDuration": 71
+            },
+            "24": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Cold Heart - Elton John",
+                "totalDuration": 180
+            },
+            "25": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 118
+            },
+            "26": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 184
+            },
+            "27": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 65
+            },
+            "28": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 160
+            },
+            "29": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 50
+            },
+            "30": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 43
+            },
+            "31": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 43
+            }
+        }
+    }
+}

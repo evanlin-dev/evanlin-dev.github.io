@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.heatmap-container {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.months-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+.month {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.month-name {
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 1px;
+}
+
+.day {
+  width: 20px;
+  height: 20px;
+  border-radius: 3px;
+  background-color: #e0e0e0;
+  cursor: pointer;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.day:hover {
+  outline: 2px solid #333;
+}
+
+.empty-day {
+  background-color: transparent;
+  pointer-events: none;
+}
+
+[data-songs="level1"] {
+  background-color: #d9e289;
+}
+
+[data-songs="level2"] {
+  background-color: #a8bd65;
+}
+
+[data-songs="level3"] {
+  background-color: #789943;
+}
+
+[data-songs="level4"] {
+  background-color: #487722;
+}
+
+[data-songs="level5"] {
+  background-color: #195501;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  display: none;
+  z-index: 1000;
+  white-space: pre-line;
+}
